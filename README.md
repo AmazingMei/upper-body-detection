@@ -1,7 +1,9 @@
 # A comprehensive study on upper-body detection with deep learning methods
 
 Yamei Zhu, Lin Zhang
+
 School of Software Engineering, Tongji University, Shanghai, China
+
 ---
 ## Introduction 
 This is the website for our paper "A comprehensive study on upper-body detection with deep learning methods", submitted to **ICONIP 2017**. 
